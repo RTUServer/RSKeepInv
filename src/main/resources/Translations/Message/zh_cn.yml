@@ -1,0 +1,7 @@
+trigger: "<white>你的背包已被保留</white>"
+useItem: "<white>物品栏保护功能已启用</white>"
+alreadyUsed: "<red>你已经开启了物品栏保护功能</red>"
+
+placeholder:
+  active: "启用"
+  inactive: "禁用"
